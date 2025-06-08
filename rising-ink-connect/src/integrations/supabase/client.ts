@@ -1,0 +1,1 @@
+// Supabase client deprecated. All logic migrated to Firebase. Safe to delete this file.

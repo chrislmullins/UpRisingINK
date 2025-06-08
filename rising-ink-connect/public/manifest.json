@@ -1,0 +1,28 @@
+
+{
+  "name": "Rising Ink Connect",
+  "short_name": "Rising Ink",
+  "description": "Professional tattoo shop management and booking platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#D4AF37",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/lovable-uploads/c37baa90-4119-4542-90d3-64895667fdc1.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/lovable-uploads/9b01871f-2fae-44b9-9818-e9b575a44c9a.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "lifestyle"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
